@@ -9,7 +9,7 @@
   - [osTicket: Configuration of Settings](https://github.com/Michitexan/post-install-config)
   - [osTicket: Example Ticket Cycle](https://github.com/Michitexan/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Virtual Machines with Azure for Active Directory](https://github.com/Michitexan/configure-ad)
+  - [Configuring Systems to Network with Azure for Active Directory](https://github.com/Michitexan/configure-ad)
   - [Inspecting Network Protocols with Wireshark and Exploring Network Security Groups (NSGs)](https://github.com/Michitexan/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
